@@ -1,0 +1,10 @@
+# Site settings
+title: NNO.sh
+email: MarkBruns@MarkBruns.com
+description:  Minimalist DevOps Workflow and Dashboard
+baseurl: /NNO
+twitter_username: Salebarn_LLC
+github_username:  MarkBruns/NNO
+
+# Build settings
+markdown: kramdown
