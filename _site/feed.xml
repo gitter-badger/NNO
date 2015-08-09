@@ -5,9 +5,39 @@
     <description>Minimalist DevOps Workflow and Dashboard</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Aug 2015 13:03:34 -0500</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2015 13:03:34 -0500</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2015 20:23:24 -0500</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2015 20:23:24 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Advancing the Collective IQ!</title>
+        <description>&lt;p&gt;How does enable more rational, coherent communication?&lt;/p&gt;
+
+&lt;p&gt;As a systems engineer I would tell you that the nodes of an effective communication network have to be receptive to the “signal” that other nodes are putting out, while filtering out the “noise” in the whatever carries the signal[s] that delivers the “signal” … you can get into all kinds of discussion when we talk about defining terms, eg what is meant by “effective” … can “effective” be quanitifiably, repeatably, reproducibly measured and compared by solid scientific metrics, what are those metrics?  And what do you mean by “solidly scientific?” It doesn’t matter … one enables rational, coherent and communicative by working to inprove these things and to optimizes ones resources for the improvement process by measuring performance and making adjustments to processes in a scientific fashion to quanitifiably measure performance of the improvement mechanisms.&lt;/p&gt;
+
+&lt;p&gt;There are PATTERNS of success in the improvement of communication that inform how we might think about optimization in the future.&lt;/p&gt;
+
+&lt;p&gt;UNIX was designed to be a SMALL and USEFUL operating system and the people who used and developed UNIX had the experience to have a profound understanding of the reason for simplicity and the NEED for making everything transparent [without the MIND POLUTTION of a graphical user interface].  Unix was not designed from the ground up [like the way that products of Microsoft, Oracle, Apple and other significantly proprietary products are] to to employ various mechanisms to lie, obfuscate and legally cheat users and to generally stop at nothing to keep the user from understanding the secret sauce of the product.&lt;/p&gt;
+
+&lt;p&gt;EVERYTHING is a service.  Everything is TEMPORARY.  Products carry services, but often the product gets in the way of the consumer actually using the service they purchased.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 09 Aug 2015 16:07:14 -0500</pubDate>
+        <link>/nno/advance/acclerate/collectiveiq/2015/08/09/Advancing-Collective-IQ.html</link>
+        <guid isPermaLink="true">/nno/advance/acclerate/collectiveiq/2015/08/09/Advancing-Collective-IQ.html</guid>
+        
+        
+        <category>nno</category>
+        
+        <category>advance</category>
+        
+        <category>acclerate</category>
+        
+        <category>collectiveiq</category>
+        
+      </item>
     
       <item>
         <title>It&#39;s fun, but I wish that I knew what I was doing with Jekyll</title>
@@ -58,36 +88,6 @@
         <category>first</category>
         
         <category>attempt</category>
-        
-      </item>
-    
-      <item>
-        <title>Advancing the Collective IQ!</title>
-        <description>&lt;p&gt;How does enable more rational, coherent communication?&lt;/p&gt;
-
-&lt;p&gt;As a systems engineer I would tell you that the nodes of an effective communication network have to be receptive to the “signal” that other nodes are putting out, while filtering out the “noise” in the whatever carries the signal[s] that delivers the “signal” … you can get into all kinds of discussion when we talk about defining terms, eg what is meant by “effective” … can “effective” be quanitifiably, repeatably, reproducibly measured and compared by solid scientific metrics, what are those metrics?  And what do you mean by “solidly scientific?” It doesn’t matter … one enables rational, coherent and communicative by working to inprove these things and to optimizes ones resources for the improvement process by measuring performance and making adjustments to processes in a scientific fashion to quanitifiably measure performance of the improvement mechanisms.&lt;/p&gt;
-
-&lt;p&gt;There are PATTERNS of success in the improvement of communication that inform how we might think about optimization in the future.&lt;/p&gt;
-
-&lt;p&gt;UNIX was designed to be a SMALL and USEFUL operating system and the people who used and developed UNIX had the experience to have a profound understanding of the reason for simplicity and the NEED for making everything transparent [without the MIND POLUTTION of a graphical user interface].  Unix was not designed from the ground up [like the way that products of Microsoft, Oracle, Apple and other significantly proprietary products are] to to employ various mechanisms to lie, obfuscate and legally cheat users and to generally stop at nothing to keep the user from understanding the secret sauce of the product.&lt;/p&gt;
-
-&lt;p&gt;EVERYTHING is a service.  Everything is TEMPORARY.  Products carry services, but often the product gets in the way of the consumer actually using the service they purchased.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Aug 2015 16:07:14 -0500</pubDate>
-        <link>/nno/advance/acclerate/collectiveiq/2015/08/07/Advancing-Collective-IQ.html</link>
-        <guid isPermaLink="true">/nno/advance/acclerate/collectiveiq/2015/08/07/Advancing-Collective-IQ.html</guid>
-        
-        
-        <category>nno</category>
-        
-        <category>advance</category>
-        
-        <category>acclerate</category>
-        
-        <category>collectiveiq</category>
         
       </item>
     
