@@ -2,19 +2,13 @@
 layout: post
 title:  "It's fun, but I wish that I knew what I was doing with Jekyll"
 date:   2015-08-08 21:07:14
-categories: NNO second attempt attempt
+categories: NNO Mentors ShouldersOfGiants
 ---
-Tell me how this works again ...
+My mentors are dead, anonymous guys who did huge things.  Someday I will be a dead anonymous guy. I don't know if I have done huge things; I have done some things, encouraged and instigated bigger things in others ... but I DESERVE to be anonymous. I don't deserve to be a mentor; but I am.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Although knowledgable people can still point to important guys an say something like "Look, that guy Feynman ... man, what a genius!" ... the sad truth that knowledgable, informed, intelligent people will have to admit [if they are reall all that intelligent] is that humans don't matter that much in the grand scheme of things. God matters. Appreciating and contemplating your Creator is lot more important than your appreciation of anything else -- except that you really have to get past the abstract appreciation of your Creator and get down and dirty and nasty and appreciate the others created by the same God ... and you must appreciate them for what they are, on their terms, in the way that they would prefer to be appreciated in the same way that you would hope to be appreciated and respected by others ... you don't get to judge them -- you are COMMANDED to love them as you love yourself [and that includes respecting and NOT judging their nasty choices and bad decisioins] ... because you make bad choices that make you defensive about and cause you to contrive hideous rationalizations which nobody buys].  
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+ALL of the inventors of Unix are Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
