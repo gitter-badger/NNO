@@ -1,5 +1,7 @@
 ### NNO.sh is a clone of is Hygieia
 
+[![Join the chat at https://gitter.im/MarkBruns/NNO](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarkBruns/NNO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hygieia is a single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline for Capital One.  View [Hygieia in action](https://www.youtube.com/watch?v=SoNTA78j0tc)
 
 Capital One DevOps engineers developed Hygieia since no DevOps visualization tools were available in either the commercial market or the Open Source community
