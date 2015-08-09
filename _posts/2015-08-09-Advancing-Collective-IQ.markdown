@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advancing the Collective IQ!"
-date:   2015-08-07 21:07:14
+date:   2015-08-09 21:07:14
 categories: NNO Advance Acclerate CollectiveIQ
 ---
 How does enable more rational, coherent communication?
